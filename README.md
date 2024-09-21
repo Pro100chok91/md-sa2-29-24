@@ -5,3 +5,4 @@ There is some bug here
 Another bug
 Diff change #1
 Diff change #2
+Stashing changes
