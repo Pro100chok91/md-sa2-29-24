@@ -10,21 +10,8 @@ Diff change #2
 Stashing changes
 Email notification
 ```
-GitHub email:
+GitHub email:  
 ![alt text](https://github.com/Pro100chok91/md-sa2-29-24/blob/md-sa2-29-24/img/2.jpg "GitHub email")
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-GitLab email:
+GitLab email:  
 ![alt text](https://github.com/Pro100chok91/md-sa2-29-24/blob/md-sa2-29-24/img/3.jpg "GitLab email")
