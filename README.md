@@ -7,4 +7,5 @@ Another bug
 Diff change #1
 Diff change #2
 Stashing changes
+Email notification
 ```
