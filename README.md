@@ -11,7 +11,7 @@ Stashing changes
 Email notification
 ```
 GitHub email:
-https://github.com/Pro100chok91/md-sa2-29-24/img/1.jpg
+![alt text](https://github.com/Pro100chok91/md-sa2-29-24/img/1.jpg "GitHub email")
 
 GitLab email:
-https://github.com/Pro100chok91/md-sa2-29-24/img/2.jpg
+![alt text](https://github.com/Pro100chok91/md-sa2-29-24/img/2.jpg "GitLab email")
